@@ -19,7 +19,7 @@ AI 驱动的 Claude Code 记忆系统，通过 Obsidian vault 实现跨会话知
 ## 安装
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/lzsobig/obsidian-memory.git
 cd obsidian-memory
 bash install.sh [vault-path]
 ```
